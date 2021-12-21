@@ -4,8 +4,7 @@ body{
 .header{
     margin-top: 0;
     width:100%;
-    background-color: rgb(251, 255, 0);
-    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background:linear-gradient(109.476575498932deg, rgba(224, 247, 135,1) 5.911420204978038%,rgba(78, 227, 250,1) 95.95534407027817%);tem, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     height: 150px;
     padding:0;
 }
